@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "570609127199",
+    "firebase_url": "https://mise-android.firebaseio.com",
+    "project_id": "mise-android",
+    "storage_bucket": "mise-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570609127199:android:92cbab0d60a35541",
+        "android_client_info": {
+          "package_name": "ch.mise.commissione_qualita.mise_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570609127199-s6hsdvs4c2fs1g1p385q7e0ab7fsnk1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ch.mise.commissione_qualita.mise_android",
+            "certificate_hash": "9b5044c67967fa6c08b01d8293db0816c63c3f3b"
+          }
+        },
+        {
+          "client_id": "570609127199-mo4c6jaglpbm9u4naqdkjv5hfeqkql58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32lOYtVva1sL2jzx8NW2f8ZVPuRsMvdo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570609127199-mo4c6jaglpbm9u4naqdkjv5hfeqkql58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

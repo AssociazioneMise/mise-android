@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         // Get web view
         WebView myWebView = (WebView) findViewById(R.id.web_view);
 
+        // Adapt content to the width of the screen
         myWebView.getSettings().setUseWideViewPort(true);
         myWebView.getSettings().setLoadWithOverviewMode(true);
 
@@ -26,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         WebSettings webSettings = myWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
 
-        // Assure that link will opened inside the app
+        // Assure that links will be opened inside the app
         myWebView.setWebViewClient(new WebViewClient());
     }
 }
