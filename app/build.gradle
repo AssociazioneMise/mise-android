@@ -2,9 +2,9 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 24
-    buildToolsVersion "24.0.3"
+    buildToolsVersion '25.0.0'
     defaultConfig {
-        applicationId "ch.mise.commissione_qualita.mise_android"
+        applicationId "ch.mise.mise_android"
         minSdkVersion 15
         targetSdkVersion 24
         versionCode 1

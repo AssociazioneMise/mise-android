@@ -4,7 +4,7 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="ch.mise.commissione_qualita.mise_android.MainActivity">
+    tools:context="ch.mise.mise_android.mise_android.ch.mise.commissione_qualita.MainActivity">
 
     <WebView
         android:layout_width="fill_parent"

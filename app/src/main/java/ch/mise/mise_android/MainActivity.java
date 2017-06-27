@@ -1,4 +1,4 @@
-package ch.mise.commissione_qualita.mise_android;
+package ch.mise.mise_android;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
